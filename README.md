@@ -1,6 +1,8 @@
 # The Adobe Icons Project
 A set of icons inspired by those of Adobe products for open-source, creative applications. This project was previously hosted on DeviantArt.
 
+As featured on [OMG! Ubuntu!](https://www.omgubuntu.co.uk/2016/07/adobe-style-icons-10-open-source-creative-apps) and [It's FOSS](https://itsfoss.com/adobe-style-icons-open-source-apps/).
+
 ![Header](Header.png)
 
 # Available icons
@@ -37,6 +39,8 @@ Right-click on the respective file and select "Copy".
 _These instructions apply for Ubuntu and its derivatives. A quick search will help you get instructions for other Linux distros._
 
 _For Windows and macOS, you'll have to convert the SVG files to ICO and ICNS respectively (GIMP can help with this) and again a quick search will help with the installation._
+
+---
 
 Designed by **Rohit Awate**
 
