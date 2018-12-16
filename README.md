@@ -1,7 +1,7 @@
-![Header](Header.png)
-
 # The Adobe Icons Project
 A set of icons inspired by those of Adobe products for open-source, creative applications. This project was previously hosted on DeviantArt.
+
+![Header](Header.png)
 
 # Available icons
 - GIMP
@@ -39,6 +39,9 @@ _These instructions apply for Ubuntu and its derivatives. A quick search will he
 _For Windows and macOS, you'll have to convert the SVG files to ICO and ICNS respectively (GIMP can help with this) and again a quick search will help with the installation._
 
 Designed by **Rohit Awate**
+
 GitHub: @RohitAwate
+
 Twitter: @TheRohitAwate
+
 Email: rohitawate121@gmail.com
