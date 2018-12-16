@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg3765"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="blender.svg">
+  <defs
+     id="defs3767" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.468254"
+     inkscape:cx="31.5"
+     inkscape:cy="36.562019"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1215"
+     inkscape:window-height="1000"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3770">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:#cccccc;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3773"
+       width="61"
+       height="61"
+       x="1.5"
+       y="1.5" />
+    <g
+       style="font-size:50px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Myriad Pro Bold Italic"
+       id="text4283">
+      <path
+         d="m 15.221188,52.831499 c 1.585998,0.244 3.843003,0.427 6.832,0.427 5.916994,0 9.943002,-1.342003 12.322,-3.965 1.890998,-2.012998 2.989,-4.758004 2.989,-8.113 0,-4.940995 -2.684005,-8.784002 -7.442,-10.126 l 0,-0.183 c 4.025996,-1.707998 6.1,-5.185004 6.1,-9.028 0,-2.927997 -0.915002,-5.551002 -2.928,-7.32 -2.500998,-2.256998 -5.978004,-2.867 -9.76,-2.867 -3.110997,0 -5.917003,0.244 -8.113,0.793 l 0,40.382 m 6.466,-35.99 c 0.548999,-0.183 1.342001,-0.244 2.318,-0.244 4.025996,0 5.612,2.562003 5.612,5.978 0,3.720996 -2.684004,6.405 -5.978,6.405 l -1.952,0 0,-12.139 m 0,17.019 1.891,0 c 3.720996,0.061 7.076,2.440005 7.076,7.259 0,4.696995 -2.928004,7.076 -6.893,7.076 -0.854,0 -1.525001,-0.061 -2.074,-0.183 l 0,-14.152"
+         style="font-size:61px;font-variant:normal;font-stretch:normal;fill:#cccccc;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro Bold Italic"
+         id="path3118" />
+      <path
+         d="m 42.251813,52.953499 6.527,0 0,-42.212 -6.527,0 0,42.212"
+         style="font-size:61px;font-variant:normal;font-stretch:normal;fill:#cccccc;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro Bold Italic"
+         id="path3120" />
+    </g>
+  </g>
+</svg>
